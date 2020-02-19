@@ -6,4 +6,5 @@
 6. cargo run - To build and run the application
 7. cargo build --release - For production level build will be availabel in target/release/project_name
 8. crates - packages of code are referred to as crates
-9. 
+9. let mut var_name - In Rust, variables are immutable by default, so we are explicitly saying this variable is mutable
+10. &mut var_name (Or) &var_name - In Rust, reference are immutable by default, To make reference mutable
