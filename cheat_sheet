@@ -1,4 +1,9 @@
 1. rustc file_name.rs //to compile the rust code
 2. println!("Hello, world!"); // ! - it calls a rust macro, not a function
 3. cargo - Rust’s build system and package manager
-4. 
+4. cargo new project_name - To create new rust application with package manager
+5. cargo build - To build rust project, which build and saves the binary in target/debug/project_name
+6. cargo run - To build and run the application
+7. cargo build --release - For production level build will be availabel in target/release/project_name
+8. crates - packages of code are referred to as crates
+9. 
