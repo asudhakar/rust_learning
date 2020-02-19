@@ -1,0 +1,4 @@
+1. rustc file_name.rs //to compile the rust code
+2. println!("Hello, world!"); // ! - it calls a rust macro, not a function
+3. cargo - Rust’s build system and package manager
+4. 
